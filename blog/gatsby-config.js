@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Meu Blog`,
     description: `Blog criado com Gatsby.`,
+    position: "Fullstack Developer",
     author: `@myblog`,
   },
   plugins: [
