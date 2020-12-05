@@ -5,7 +5,7 @@ import * as S from "./styled"
 
 function PostItem({ slug, background, category, date, timeToRead, title, description }) {
   return (
-    <S.PostItemLink t={slug}>
+    <S.PostItemLink to={slug}>
       <S.PostItemWrapper>
         <S.PostItemTag background={background}>{category}</S.PostItemTag>
         <S.PostItemInfo>
