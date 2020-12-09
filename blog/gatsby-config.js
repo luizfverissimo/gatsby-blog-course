@@ -8,7 +8,7 @@ module.exports = {
     description: `Blog criado com Gatsby.`,
     position: "Fullstack Developer",
     author: `@myblog`,
-    siteUrl: `https://lfverissimo.io`
+    siteUrl: `https://lfverissimogatsbyblog.netlify.app`
   },
   plugins: [
     `gatsby-plugin-styled-components`,
