@@ -1,5 +1,5 @@
 ---
-title: Mussum Ipsum o melhor ipsum do mundis
+title: Mussum Ipsum
 description: "'Mussum Ipsum, cacilds vidis litro abertis. Não sou faixa preta cumpadi'"
 date: 2020-12-10 08:52:32
 thumbnail: assets/img/mussum.jpg
