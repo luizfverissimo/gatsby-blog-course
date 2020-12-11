@@ -1,8 +1,7 @@
 backend:
-  name: github
-  repo: luizfverissimo/gatsby-blog-course
+  name: git-gateway
   branch: main
-  site_domain: http://lfverissimogatsbyblog.netlify.app
+  site_domain: https://lfverissimogatsbyblog.netlify.app
 
 publish_mode: editorial_workflow
 media_folder: "static/assets/img"
